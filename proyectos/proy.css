@@ -1,24 +1,40 @@
 .pantalla2{
-    width: 100%;
+    width: 1260px;
 }
-.subtitulos1{
-  justify-content: center;
-  align-items: center;
+.proyect {
+  margin: 10px;
+  margin-right: 50px;
+  margin-top: 15px;
+  width: 100%;
+  height: 240px;
+display: flex;
+justify-content: space-between;
 }
-.part3{
-  display: flex;
-  box-sizing: border-box;
-  justify-content: space-between;
-  gap: 10px;
-  padding: auto;
-}
-.proyectos div{
-  display: flex;
-width: 186px;
-height: 186px;
-border: 1px solid black;
+.proyect div{
+width: 240px;
+height: 240px;
+border: 2px solid black;
 gap: 10px;
+border-radius: 10px;
 }
-.dos{
+.proy2{
   background-color: black;
+}
+.bash{
+  margin: 30px;
+  margin-left: 40px;
+  width: 10rem;
+}
+.htms{
+  width: 13rem;
+  margin-left: 13.5px;
+  margin-top: 18px;
+}
+.mysql{
+  width: 15rem;
+}
+.java{
+  width: 12rem;
+  margin-top: 25px;
+  margin-left: 25px;
 }
