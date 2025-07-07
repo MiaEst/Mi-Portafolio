@@ -1,0 +1,41 @@
+.proyectOs{
+    width: 100%;
+    background-color: black;
+    height: 2500px;
+}
+.titule{
+    margin-top: 3rem;
+    margin-left: 21rem;
+}
+.pr{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+.imgs{
+    margin-top: 2rem;
+    margin-left: 15rem;
+    gap: 3rem;
+    width: 30rem;
+    border-radius: 20px;
+}
+h1{
+    color: white;
+    font-size: 4rem;
+    font-family:"Roboto", sans-serif ;
+
+}
+h2{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 3rem;
+}
+.calculadora{
+    margin-top: 1rem;
+}
+.calculadora p{
+    margin-left: 5px;
+}
+.left{
+    margin-left: 10rem;
+}
